@@ -1,0 +1,42 @@
+body {
+	background-color: #C93;
+	line-height: 24px;
+	margin: 0px;
+	padding: 0px;
+}
+.logo {
+	border: 10px solid #C30;
+}
+
+.nav {
+	background-color: #960;
+	font-size: 14px;
+	color: #FFF;
+	height: 40px;
+}
+.nav a {
+	color: #FF9;
+	font-size: 14px;
+	padding: 2px;
+	text-decoration: none;
+}
+p {
+	color: #963;
+	margin-left: 10px;
+}
+.pclass {
+	font-size: 14px;
+	color: #FFF;
+}
+
+
+
+.nav a:hover {
+	background:#930}
+a {
+	color: #930;
+}
+a:hover {
+	color: #FFF;
+	background-color: #F00;
+}
